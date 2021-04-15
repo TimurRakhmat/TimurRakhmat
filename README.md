@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TimurRakhmat
+- 👋 Hi, I’m @TimurRakhmatullin
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
